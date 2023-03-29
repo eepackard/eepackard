@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eepackard PhD student at the Swedish University of Agricultural Sciences in Uppsala, Sweden
-- 👀 I’m interested in soil biology and forest soil mycology. 
+- 👀 I’m interested in soil biology and forest mycology. 
 - 🌱 I’m currently growing my data management skills and working to learn more about ways to model ecological data. 
 - 📫 Contact me @ erica.e.packard@gmail.com or erica.packard@slu.se 
 
