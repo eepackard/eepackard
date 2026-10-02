@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eepackard PhD student at the Swedish University of Agricultural Sciences in Uppsala, Sweden
+- 👋 Hi, I’m @eepackard Post-doc at the Swedish University of Agricultural Sciences in Uppsala, Sweden. PhD with specialisation in soil biology (SLU)
 - 👀 I’m interested in soil biology and forest mycology. 
 - 🌱 I’m currently growing my data management skills and working to learn more about ways to model ecological data. 
 - 📫 Contact me @ erica.e.packard@gmail.com or erica.packard@slu.se 
